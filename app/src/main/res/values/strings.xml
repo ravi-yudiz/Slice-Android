@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SliceExample</string>
+
+    <string name="temp_string">Temperature: %d\u00B0C</string>
+</resources>
